@@ -104,9 +104,9 @@
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
-		<itemref idref="introduction.xhtml"/>
-		<itemref idref="preface.xhtml"/>
 		<itemref idref="about-the-author.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
