@@ -36,9 +36,9 @@
 		<meta property="se:subject">Nonfiction,Religion</meta>
 		<dc:description id="description">Bhante Gunaratana teaches the reader about Vipassana Mindfulness Meditation and how to lead an effective practice.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
+		<meta id="long-description" property="se:long-description" refines="#description">
 			Bhante Gunaratana teaches the reader about Vipassana Mindfulness Meditation and how to lead an effective practice.
-		]]></meta>
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>LANG</dc:language>
 		<dc:source>PG_URL</dc:source>
@@ -104,7 +104,6 @@
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
-		<itemref idref="imprint.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="about-the-author.xhtml"/>
@@ -126,6 +125,5 @@
 		<itemref idref="chapter-16.xhtml"/>
 		<itemref idref="copyright.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
-		<itemref idref="uncopyright.xhtml"/>
 	</spine>
 </package>
