@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henepola-gunaratana/mindfulness-in-plain-english</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-03-23T20:45:57Z</dc:date>
+		<meta property="dcterms:modified">2019-03-23T20:45:57Z</meta>
 		<dc:rights>The publisher retains all rights to this work and hereby grants electronic distribution rights to BodhiNet Democratic Buddhist Network. This work may be freely copied and redistributed, provided that it is accompanied by this Agreement and is distributed at no cost to the recipient. If this work is used by a teacher in a class, or is quoted in a review, the publisher shall be notified of such use. If you find this work of value, please consider sending a donation to the author or publisher, so that these works may continue to be made available.</dc:rights>
 		<dc:publisher id="publisher">Updike.org</dc:publisher>
 		<meta property="file-as" refines="#publisher">Updike.org</meta>
@@ -26,7 +26,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<meta property="se:word-count">53868</meta>
+		<meta property="se:word-count">53846</meta>
 		<meta property="se:reading-ease.flesch">66.64</meta>
 		<dc:source>http://www.vipassana.com/meditation/mindfulness_in_plain_english.php</dc:source>
 		<meta property="se:url.vcs.github">https://github.com/jupdike/henepola-gunaratana_mindfulness-in-plain-english</meta>
